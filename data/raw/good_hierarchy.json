@@ -1,0 +1,846 @@
+{
+    "name": "ALL",
+    "children": [
+        {
+            "name": "Elettronica",
+            "children": [
+                {
+                    "name": "Smartphone",
+                    "children": [
+                        {
+                            "name": "iPhone 15 Pro"
+                        },
+                        {
+                            "name": "iPhone 15"
+                        },
+                        {
+                            "name": "Samsung Galaxy S24"
+                        },
+                        {
+                            "name": "Samsung Galaxy A54"
+                        },
+                        {
+                            "name": "Google Pixel 8"
+                        },
+                        {
+                            "name": "Xiaomi 14"
+                        },
+                        {
+                            "name": "OnePlus 12"
+                        }
+                    ]
+                },
+                {
+                    "name": "Laptop",
+                    "children": [
+                        {
+                            "name": "Laptop Gaming",
+                            "children": [
+                                {
+                                    "name": "ASUS ROG Zephyrus"
+                                },
+                                {
+                                    "name": "Razer Blade 15"
+                                },
+                                {
+                                    "name": "MSI Titan GT77"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Laptop Professionale",
+                            "children": [
+                                {
+                                    "name": "MacBook Pro 16"
+                                },
+                                {
+                                    "name": "MacBook Air M2"
+                                },
+                                {
+                                    "name": "Dell XPS 15"
+                                },
+                                {
+                                    "name": "Lenovo ThinkPad X1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Laptop Budget",
+                            "children": [
+                                {
+                                    "name": "Acer Aspire 5"
+                                },
+                                {
+                                    "name": "HP Pavilion 15"
+                                },
+                                {
+                                    "name": "Lenovo IdeaPad 3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tablet",
+                    "children": [
+                        {
+                            "name": "iPad Pro 12.9"
+                        },
+                        {
+                            "name": "iPad Air"
+                        },
+                        {
+                            "name": "Samsung Galaxy Tab S9"
+                        },
+                        {
+                            "name": "Microsoft Surface Pro 9"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audio",
+                    "children": [
+                        {
+                            "name": "Cuffie",
+                            "children": [
+                                {
+                                    "name": "Sony WH-1000XM5"
+                                },
+                                {
+                                    "name": "Bose QuietComfort 45"
+                                },
+                                {
+                                    "name": "Apple AirPods Max"
+                                },
+                                {
+                                    "name": "Sennheiser HD 660S"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Auricolari",
+                            "children": [
+                                {
+                                    "name": "Apple AirPods Pro"
+                                },
+                                {
+                                    "name": "Samsung Galaxy Buds2"
+                                },
+                                {
+                                    "name": "Sony WF-1000XM5"
+                                },
+                                {
+                                    "name": "Nothing Ear 2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Speaker",
+                            "children": [
+                                {
+                                    "name": "Sonos Era 300"
+                                },
+                                {
+                                    "name": "JBL Charge 5"
+                                },
+                                {
+                                    "name": "Bose SoundLink Max"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fotografia",
+                    "children": [
+                        {
+                            "name": "Fotocamera",
+                            "children": [
+                                {
+                                    "name": "Sony A7 IV"
+                                },
+                                {
+                                    "name": "Canon EOS R6"
+                                },
+                                {
+                                    "name": "Nikon Z6 III"
+                                },
+                                {
+                                    "name": "Fujifilm X-T5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Accessori Foto",
+                            "children": [
+                                {
+                                    "name": "Treppiede Manfrotto"
+                                },
+                                {
+                                    "name": "Borsa Lowepro"
+                                },
+                                {
+                                    "name": "Filtro ND Polarizzatore"
+                                },
+                                {
+                                    "name": "Scheda SD SanDisk 256GB"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Smartwatch",
+                    "children": [
+                        {
+                            "name": "Apple Watch Series 9"
+                        },
+                        {
+                            "name": "Samsung Galaxy Watch 6"
+                        },
+                        {
+                            "name": "Garmin Fenix 7"
+                        },
+                        {
+                            "name": "Fitbit Sense 2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Casa e Arredamento",
+            "children": [
+                {
+                    "name": "Illuminazione",
+                    "children": [
+                        {
+                            "name": "Lampada da Scrivania LED"
+                        },
+                        {
+                            "name": "Lampadario Moderno"
+                        },
+                        {
+                            "name": "Striscia LED Philips Hue"
+                        },
+                        {
+                            "name": "Lampada da Terra"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mobili",
+                    "children": [
+                        {
+                            "name": "Ufficio",
+                            "children": [
+                                {
+                                    "name": "Scrivania Regolabile"
+                                },
+                                {
+                                    "name": "Sedia Ergonomica Herman Miller"
+                                },
+                                {
+                                    "name": "Libreria Billy IKEA"
+                                },
+                                {
+                                    "name": "Monitor Stand Bamboo"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Soggiorno",
+                            "children": [
+                                {
+                                    "name": "Divano 3 Posti"
+                                },
+                                {
+                                    "name": "Tavolino da Caffè"
+                                },
+                                {
+                                    "name": "Libreria da Muro"
+                                },
+                                {
+                                    "name": "Poltrona Relax"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Camera da Letto",
+                            "children": [
+                                {
+                                    "name": "Letto Matrimoniale"
+                                },
+                                {
+                                    "name": "Comodino"
+                                },
+                                {
+                                    "name": "Armadio Scorrevole"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Smart Home",
+                    "children": [
+                        {
+                            "name": "Amazon Echo Dot"
+                        },
+                        {
+                            "name": "Google Nest Hub"
+                        },
+                        {
+                            "name": "Termostato Nest"
+                        },
+                        {
+                            "name": "Videocitofono Ring"
+                        },
+                        {
+                            "name": "Presa Intelligente TP-Link"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cucina",
+                    "children": [
+                        {
+                            "name": "Grandi Elettrodomestici",
+                            "children": [
+                                {
+                                    "name": "Frigorifero Samsung"
+                                },
+                                {
+                                    "name": "Lavastoviglie Bosch"
+                                },
+                                {
+                                    "name": "Forno Electrolux"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Piccoli Elettrodomestici",
+                            "children": [
+                                {
+                                    "name": "Macchina Caffè De'Longhi"
+                                },
+                                {
+                                    "name": "Frullatore Vitamix"
+                                },
+                                {
+                                    "name": "Friggitrice ad Aria Philips"
+                                },
+                                {
+                                    "name": "Robot da Cucina Kenwood"
+                                },
+                                {
+                                    "name": "Tostapane Braun"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Utensili",
+                            "children": [
+                                {
+                                    "name": "Set Coltelli Zwilling"
+                                },
+                                {
+                                    "name": "Tagliere Bambu"
+                                },
+                                {
+                                    "name": "Pentola Antiaderente"
+                                },
+                                {
+                                    "name": "Bilancia da Cucina"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sport e Fitness",
+            "children": [
+                {
+                    "name": "Palestra",
+                    "children": [
+                        {
+                            "name": "Cardio",
+                            "children": [
+                                {
+                                    "name": "Tapis Roulant Technogym"
+                                },
+                                {
+                                    "name": "Bici da Spinning Peloton"
+                                },
+                                {
+                                    "name": "Vogatore Concept2"
+                                },
+                                {
+                                    "name": "Ellittica NordicTrack"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pesi",
+                            "children": [
+                                {
+                                    "name": "Manubri Regolabili"
+                                },
+                                {
+                                    "name": "Bilanciere Olympic"
+                                },
+                                {
+                                    "name": "Kettlebell Set"
+                                },
+                                {
+                                    "name": "Panca Pieghevole"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Accessori Palestra",
+                            "children": [
+                                {
+                                    "name": "Tappetino Yoga"
+                                },
+                                {
+                                    "name": "Guanti da Palestra"
+                                },
+                                {
+                                    "name": "Fascia da Braccio"
+                                },
+                                {
+                                    "name": "Borraccia Termica"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Sport all'Aperto",
+                    "children": [
+                        {
+                            "name": "Ciclismo",
+                            "children": [
+                                {
+                                    "name": "Bici da Corsa Trek"
+                                },
+                                {
+                                    "name": "Mountain Bike Scott"
+                                },
+                                {
+                                    "name": "E-Bike Specialized"
+                                },
+                                {
+                                    "name": "Casco Bici"
+                                },
+                                {
+                                    "name": "Luci Bici"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Running",
+                            "children": [
+                                {
+                                    "name": "Scarpe Nike Air Zoom"
+                                },
+                                {
+                                    "name": "Scarpe Adidas Ultraboost"
+                                },
+                                {
+                                    "name": "Scarpe Hoka Clifton"
+                                },
+                                {
+                                    "name": "Abbigliamento Running"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nuoto",
+                            "children": [
+                                {
+                                    "name": "Occhialini Speedo"
+                                },
+                                {
+                                    "name": "Costume da Gara"
+                                },
+                                {
+                                    "name": "Cuffia Silicone"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Abbigliamento Sportivo",
+                    "children": [
+                        {
+                            "name": "Maglia Tecnica"
+                        },
+                        {
+                            "name": "Pantaloncini da Allenamento"
+                        },
+                        {
+                            "name": "Giacca Impermeabile"
+                        },
+                        {
+                            "name": "Leggings Compressione"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Libri e Cultura",
+            "children": [
+                {
+                    "name": "Libri",
+                    "children": [
+                        {
+                            "name": "Narrativa",
+                            "children": [
+                                {
+                                    "name": "Romanzo Contemporaneo"
+                                },
+                                {
+                                    "name": "Giallo e Thriller"
+                                },
+                                {
+                                    "name": "Fantascienza"
+                                },
+                                {
+                                    "name": "Fantasy"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Saggistica",
+                            "children": [
+                                {
+                                    "name": "Economia e Finanza"
+                                },
+                                {
+                                    "name": "Psicologia"
+                                },
+                                {
+                                    "name": "Storia"
+                                },
+                                {
+                                    "name": "Scienza e Tecnologia"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Formazione",
+                            "children": [
+                                {
+                                    "name": "Programmazione"
+                                },
+                                {
+                                    "name": "Design"
+                                },
+                                {
+                                    "name": "Marketing"
+                                },
+                                {
+                                    "name": "Leadership"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Musica",
+                    "children": [
+                        {
+                            "name": "Strumenti",
+                            "children": [
+                                {
+                                    "name": "Chitarra Fender Stratocaster"
+                                },
+                                {
+                                    "name": "Pianoforte Digitale Roland"
+                                },
+                                {
+                                    "name": "Batteria Elettronica Roland"
+                                },
+                                {
+                                    "name": "Basso Musicman"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Accessori Musicali",
+                            "children": [
+                                {
+                                    "name": "Corde per Chitarra"
+                                },
+                                {
+                                    "name": "Plettri Set"
+                                },
+                                {
+                                    "name": "Pedaliera Effetti"
+                                },
+                                {
+                                    "name": "Amplificatore Fender"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Giochi e Hobby",
+                    "children": [
+                        {
+                            "name": "Videogiochi",
+                            "children": [
+                                {
+                                    "name": "PlayStation 5"
+                                },
+                                {
+                                    "name": "Xbox Series X"
+                                },
+                                {
+                                    "name": "Nintendo Switch"
+                                },
+                                {
+                                    "name": "Steam Deck"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Giochi da Tavolo",
+                            "children": [
+                                {
+                                    "name": "Catan"
+                                },
+                                {
+                                    "name": "Ticket to Ride"
+                                },
+                                {
+                                    "name": "Dungeons and Dragons"
+                                },
+                                {
+                                    "name": "Pandemic"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Salute e Benessere",
+            "children": [
+                {
+                    "name": "Integratori",
+                    "children": [
+                        {
+                            "name": "Proteine Whey"
+                        },
+                        {
+                            "name": "Creatina Monoidrato"
+                        },
+                        {
+                            "name": "Vitamina D3"
+                        },
+                        {
+                            "name": "Omega 3"
+                        },
+                        {
+                            "name": "Magnesio"
+                        },
+                        {
+                            "name": "Melatonina"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cura della Persona",
+                    "children": [
+                        {
+                            "name": "Skincare",
+                            "children": [
+                                {
+                                    "name": "Crema Idratante SPF50"
+                                },
+                                {
+                                    "name": "Siero Vitamina C"
+                                },
+                                {
+                                    "name": "Detergente Viso"
+                                },
+                                {
+                                    "name": "Retinolo Notte"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Capelli",
+                            "children": [
+                                {
+                                    "name": "Shampoo Anticaduta"
+                                },
+                                {
+                                    "name": "Balsamo Nutriente"
+                                },
+                                {
+                                    "name": "Olio per Capelli"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Igiene Orale",
+                            "children": [
+                                {
+                                    "name": "Spazzolino Elettrico Oral-B"
+                                },
+                                {
+                                    "name": "Filo Interdentale"
+                                },
+                                {
+                                    "name": "Collutorio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dispositivi Medici",
+                    "children": [
+                        {
+                            "name": "Misuratore Pressione Omron"
+                        },
+                        {
+                            "name": "Bilancia Pesapersone Smart"
+                        },
+                        {
+                            "name": "Saturimetro"
+                        },
+                        {
+                            "name": "Termometro Infrarossi"
+                        }
+                    ]
+                },
+                {
+                    "name": "Benessere Mentale",
+                    "children": [
+                        {
+                            "name": "App Meditazione Headspace"
+                        },
+                        {
+                            "name": "Diffusore Oli Essenziali"
+                        },
+                        {
+                            "name": "Candele Aromaterapia"
+                        },
+                        {
+                            "name": "Maschera Sonno"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Moda e Abbigliamento",
+            "children": [
+                {
+                    "name": "Abbigliamento Uomo",
+                    "children": [
+                        {
+                            "name": "Giacca Formale"
+                        },
+                        {
+                            "name": "Jeans Levi's 501"
+                        },
+                        {
+                            "name": "Camicia Oxford"
+                        },
+                        {
+                            "name": "Maglione Merino"
+                        },
+                        {
+                            "name": "T-Shirt Basic"
+                        }
+                    ]
+                },
+                {
+                    "name": "Abbigliamento Donna",
+                    "children": [
+                        {
+                            "name": "Vestito Elegante"
+                        },
+                        {
+                            "name": "Jeans Skinny"
+                        },
+                        {
+                            "name": "Blusa di Seta"
+                        },
+                        {
+                            "name": "Gonna Midi"
+                        },
+                        {
+                            "name": "Cappotto Invernale"
+                        }
+                    ]
+                },
+                {
+                    "name": "Scarpe",
+                    "children": [
+                        {
+                            "name": "Scarpe Uomo",
+                            "children": [
+                                {
+                                    "name": "Sneakers New Balance 990"
+                                },
+                                {
+                                    "name": "Oxford Stringate"
+                                },
+                                {
+                                    "name": "Chelsea Boot"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Scarpe Donna",
+                            "children": [
+                                {
+                                    "name": "Décolleté Tacco"
+                                },
+                                {
+                                    "name": "Sneakers Veja"
+                                },
+                                {
+                                    "name": "Stivali al Ginocchio"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Accessori Moda",
+                    "children": [
+                        {
+                            "name": "Borsa in Pelle"
+                        },
+                        {
+                            "name": "Zaino Urban"
+                        },
+                        {
+                            "name": "Cintura Artigianale"
+                        },
+                        {
+                            "name": "Occhiali da Sole Ray-Ban"
+                        },
+                        {
+                            "name": "Sciarpa Cashmere"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

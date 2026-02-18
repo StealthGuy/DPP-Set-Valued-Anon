@@ -1,0 +1,25 @@
+{
+  "name": "ALL",
+  "children": [
+    {
+      "name": "Elettronica",
+      "children": [
+        {
+          "name": "Smartphone",
+          "children": [{"name": "iPhone 15"}, {"name": "Galaxy S23"}]
+        },
+        {
+          "name": "Laptop",
+          "children": [{"name": "MacBook Pro"}, {"name": "Dell XPS"}]
+        }
+      ]
+    },
+    {
+      "name": "Casa",
+      "children": [
+        {"name": "Lampada LED"},
+        {"name": "Scrivania"}
+      ]
+    }
+  ]
+}
