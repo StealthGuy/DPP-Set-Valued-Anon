@@ -19,7 +19,7 @@ Refer to the presentation slides for a overview and experimental analysis: [Pres
 │   ├── tests.py            # Main test suite (unit, integration, regression, scaling)
 │   └── verify_fixes.py     # Bug regression verification scripts
 ├── requirements.txt        # Minimal library dependencies
-└── DPP_compressed.pdf      # Course presentation slides
+└── DPP_compressed.pdf      # Presentation slides
 ```
 
 ## Installation
